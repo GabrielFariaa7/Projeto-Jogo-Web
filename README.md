@@ -4,6 +4,7 @@ Um jogo simples de corrida infinita feito com **HTML5 Canvas** e **JavaScript pu
 
 Feito para estudar desenvolvimento de jogos na web!
 
+```text
                             / \__
                            (    @\___
         ___________________/         O
@@ -13,3 +14,4 @@ Feito para estudar desenvolvimento de jogos na web!
    /   /               \ \
   /   /                 \ \
  /___/                   \_\
+```
